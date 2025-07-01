@@ -1,4 +1,4 @@
-# 🏨 Hospitality Performance Dashboard – Power BI
+# 🏨 Hotel Performance Dashboard – Power BI
 
 A professional, interactive Power BI dashboard designed to analyze the performance of a hospitality business. This report focuses on key hotel performance metrics such as **Occupancy %**, **ADR**, and **RevPAR**, along with revenue breakdowns and booking trends — all with powerful filtering capabilities.
 
